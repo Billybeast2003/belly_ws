@@ -1,0 +1,6 @@
+[console_scripts]
+base_node = belly_robot.base_turtle_control:main
+collision_detector = belly_robot.collision_detector:main
+main_turtle = belly_robot.main_turtle:main
+spawn_turtle_manager = belly_robot.spawn_turtle_manager:main
+

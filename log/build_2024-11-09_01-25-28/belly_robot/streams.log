@@ -1,0 +1,22 @@
+[1.262s] Invoking command in '/home/youssef/belly_ws/build/belly_robot': PYTHONPATH=/home/youssef/belly_ws/build/belly_robot/prefix_override:/home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youssef/belly_ws/build/belly_robot/build --no-deps symlink_data
+[1.837s] running develop
+[1.838s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.839s]   warnings.warn(
+[2.192s] running egg_info
+[2.192s] writing belly_robot.egg-info/PKG-INFO
+[2.192s] writing dependency_links to belly_robot.egg-info/dependency_links.txt
+[2.193s] writing entry points to belly_robot.egg-info/entry_points.txt
+[2.193s] writing requirements to belly_robot.egg-info/requires.txt
+[2.193s] writing top-level names to belly_robot.egg-info/top_level.txt
+[2.197s] reading manifest file 'belly_robot.egg-info/SOURCES.txt'
+[2.199s] writing manifest file 'belly_robot.egg-info/SOURCES.txt'
+[2.202s] running build_ext
+[2.202s] Creating /home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages/belly-robot.egg-link (link to .)
+[2.204s] Installing base_node script to /home/youssef/belly_ws/install/belly_robot/lib/belly_robot
+[2.204s] Installing collision_detector script to /home/youssef/belly_ws/install/belly_robot/lib/belly_robot
+[2.204s] Installing main_turtle script to /home/youssef/belly_ws/install/belly_robot/lib/belly_robot
+[2.204s] Installing spawn_turtle_manager script to /home/youssef/belly_ws/install/belly_robot/lib/belly_robot
+[2.205s] 
+[2.205s] Installed /home/youssef/belly_ws/build/belly_robot
+[2.205s] running symlink_data
+[2.252s] Invoked command in '/home/youssef/belly_ws/build/belly_robot' returned '0': PYTHONPATH=/home/youssef/belly_ws/build/belly_robot/prefix_override:/home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youssef/belly_ws/build/belly_robot/build --no-deps symlink_data

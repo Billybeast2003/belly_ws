@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+belly_robot/__init__.py
+belly_robot/base_turtle_control.py
+belly_robot/collision_detector.py
+belly_robot/main_turtle.py
+belly_robot/spawn_turtle_manager.py
+belly_robot.egg-info/PKG-INFO
+belly_robot.egg-info/SOURCES.txt
+belly_robot.egg-info/dependency_links.txt
+belly_robot.egg-info/entry_points.txt
+belly_robot.egg-info/requires.txt
+belly_robot.egg-info/top_level.txt
+belly_robot.egg-info/zip-safe
+resource/belly_robot

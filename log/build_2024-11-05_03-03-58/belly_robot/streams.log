@@ -1,0 +1,25 @@
+[0.443s] Invoking command in '/home/youssef/belly_ws/build/belly_robot': PYTHONPATH=/home/youssef/belly_ws/build/belly_robot/prefix_override:/home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youssef/belly_ws/build/belly_robot/build --no-deps symlink_data
+[0.638s] running develop
+[0.639s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.639s]   warnings.warn(
+[0.738s] running egg_info
+[0.738s] creating belly_robot.egg-info
+[0.739s] writing belly_robot.egg-info/PKG-INFO
+[0.739s] writing dependency_links to belly_robot.egg-info/dependency_links.txt
+[0.739s] writing entry points to belly_robot.egg-info/entry_points.txt
+[0.739s] writing requirements to belly_robot.egg-info/requires.txt
+[0.739s] writing top-level names to belly_robot.egg-info/top_level.txt
+[0.739s] writing manifest file 'belly_robot.egg-info/SOURCES.txt'
+[0.740s] reading manifest file 'belly_robot.egg-info/SOURCES.txt'
+[0.741s] writing manifest file 'belly_robot.egg-info/SOURCES.txt'
+[0.742s] running build_ext
+[0.742s] Creating /home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages/belly-robot.egg-link (link to .)
+[0.742s] 
+[0.743s] Installed /home/youssef/belly_ws/build/belly_robot
+[0.743s] running symlink_data
+[0.743s] creating /home/youssef/belly_ws/install/belly_robot/share/ament_index
+[0.743s] creating /home/youssef/belly_ws/install/belly_robot/share/ament_index/resource_index
+[0.743s] creating /home/youssef/belly_ws/install/belly_robot/share/ament_index/resource_index/packages
+[0.743s] symbolically linking /home/youssef/belly_ws/build/belly_robot/resource/belly_robot -> /home/youssef/belly_ws/install/belly_robot/share/ament_index/resource_index/packages
+[0.743s] symbolically linking /home/youssef/belly_ws/build/belly_robot/package.xml -> /home/youssef/belly_ws/install/belly_robot/share/belly_robot
+[0.761s] Invoked command in '/home/youssef/belly_ws/build/belly_robot' returned '0': PYTHONPATH=/home/youssef/belly_ws/build/belly_robot/prefix_override:/home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/youssef/belly_ws/build/belly_robot/build --no-deps symlink_data

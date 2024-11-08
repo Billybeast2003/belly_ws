@@ -1,0 +1,19 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing belly_robot.egg-info/PKG-INFO
+writing dependency_links to belly_robot.egg-info/dependency_links.txt
+writing entry points to belly_robot.egg-info/entry_points.txt
+writing requirements to belly_robot.egg-info/requires.txt
+writing top-level names to belly_robot.egg-info/top_level.txt
+reading manifest file 'belly_robot.egg-info/SOURCES.txt'
+writing manifest file 'belly_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages/belly-robot.egg-link (link to .)
+Installing base_node script to /home/youssef/belly_ws/install/belly_robot/lib/belly_robot
+Installing collision_detector script to /home/youssef/belly_ws/install/belly_robot/lib/belly_robot
+Installing spawn_turtle_manager script to /home/youssef/belly_ws/install/belly_robot/lib/belly_robot
+
+Installed /home/youssef/belly_ws/build/belly_robot
+running symlink_data

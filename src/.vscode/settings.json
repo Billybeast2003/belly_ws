@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/youssef/belly_ws/build/belly_robot",
+        "/home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages",
+        "/home/youssef/Ros_workspaces/gazebo_ws/install/spcbot_describtion/lib/python3.10/site-packages",
+        "/home/youssef/random_ws/install/joo_pkg/lib/python3.10/site-packages",
+        "/home/youssef/image-uwrc/build/gui",
+        "/home/youssef/image-uwrc/install/gui/lib/python3.10/site-packages",
+        "/home/youssef/image-processing/build/gui",
+        "/home/youssef/image-processing/install/gui/lib/python3.10/site-packages",
+        "/home/youssef/image-processing/build/cameras",
+        "/home/youssef/image-processing/install/cameras/lib/python3.10/site-packages",
+        "/home/youssef/ros2_activities/build/activities",
+        "/home/youssef/ros2_activities/install/activities/lib/python3.10/site-packages",
+        "/home/youssef/ros2_task_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/youssef/ros2_ws/build/my_robot_controller",
+        "/home/youssef/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/youssef/belly_ws/build/belly_robot",
+        "/home/youssef/belly_ws/install/belly_robot/lib/python3.10/site-packages",
+        "/home/youssef/Ros_workspaces/gazebo_ws/install/spcbot_describtion/lib/python3.10/site-packages",
+        "/home/youssef/random_ws/install/joo_pkg/lib/python3.10/site-packages",
+        "/home/youssef/image-uwrc/build/gui",
+        "/home/youssef/image-uwrc/install/gui/lib/python3.10/site-packages",
+        "/home/youssef/image-processing/build/gui",
+        "/home/youssef/image-processing/install/gui/lib/python3.10/site-packages",
+        "/home/youssef/image-processing/build/cameras",
+        "/home/youssef/image-processing/install/cameras/lib/python3.10/site-packages",
+        "/home/youssef/ros2_activities/build/activities",
+        "/home/youssef/ros2_activities/install/activities/lib/python3.10/site-packages",
+        "/home/youssef/ros2_task_ws/install/robot_controller/lib/python3.10/site-packages",
+        "/home/youssef/ros2_ws/build/my_robot_controller",
+        "/home/youssef/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
